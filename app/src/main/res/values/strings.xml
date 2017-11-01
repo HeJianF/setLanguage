@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">默认语言：ChangeLanguage</string>
+    <string name="tv_one">默认语言：一</string>
+    <string name="tv_two">默认语言：二</string>
+    <string name="bt_english">英语</string>
+    <string name="bt_chinese">汉语</string>
+    <string name="bt_another_activity">另一个界面</string>
+    <string name="tv_second">默认语言：第二页</string>
+    <string name="bt_second">默认语言：第二个button</string>
+    <string name="et_can_write">默认语言：可以输入内容</string>
+    <string name="bt_default">恢复默认语言</string>
+</resources>

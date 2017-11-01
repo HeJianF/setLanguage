@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChangeLanguage</string>
+    <string name="tv_one">one</string>
+    <string name="tv_two">two</string>
+    <string name="bt_english">English</string>
+    <string name="bt_chinese">Chinese</string>
+    <string name="bt_another_activity">Another Activity</string>
+    <string name="tv_second">Second</string>
+    <string name="bt_second">Second Button</string>
+    <string name="et_can_write">can write</string>
+    <string name="bt_default">default Language</string>
+</resources>
